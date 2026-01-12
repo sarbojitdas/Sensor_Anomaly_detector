@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+joblib
+groq
+ipykernel
+seaborn
+dotenv
