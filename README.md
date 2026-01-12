@@ -1,1 +1,1 @@
-# Anomaly_Detection_App
+# Sensor_Anomaly_Detector
